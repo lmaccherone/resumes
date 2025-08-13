@@ -1,20 +1,20 @@
 # Larry Maccherone
-**Title:** Senior Product and Engineering Leader | **Location:** Raleigh, NC (Remote) |
-**Email:** Larry@Maccherone.com | **Phone:** +1 919-671-0772 | **LinkedIn:** linkedin.com/in/LarryMaccherone
+**Senior Product and Engineering Leader** | **Location:** Raleigh, NC (Remote)  
+Larry@Maccherone.com | +1 919-671-0772 | LinkedIn.com/in/LarryMaccherone
 
 ---
 
 ## Executive Summary
 
-In every role, I've driven—from product, engineering, and ecosystem perspectives—the development of solutions that measurably improve the performance of engineering organizations at scale.
+In every role, I've driven—from product, engineering, and ecosystem perspectives—the development of solutions that dramatically improve the performance of engineering organizations at scale.
 
-**Core value proposition:** I consistently combine deep hands-on technical leadership with strategic product vision, using data-driven approaches to drive adoption, influence industry standards, and deliver quantifiable business impact.
+**Core value proposition:** I consistently combine deep hands-on technical leadership with seeing-around-corners market insights, using data-driven approaches to drive adoption, influence industry standards, and accomplish lasting change.
 
 ## Strategic Value for Cloudflare
 
 ### Industry Ecosystem Leadership & Standards Influence
 
-- **Current Cloudflare impact:** Author of WebSocket transport SEP under consideration for next MCP specification, developed with Cloudflare-based reference implementation. With Durable Object's ability to hibernate, WebSockets is an infinitely better fit for Cloudflare's architecture than MCP's existing network transport, Streamable HTTP.
+- **Current Cloudflare impact:** Author of WebSocket transport SEP under consideration for next MCP specification, developed with Cloudflare-based reference implementation. With Durable Object's ability to maintain the connection while hibernating, WebSockets is an infinitely better fit for Cloudflare's architecture than MCP's existing network transport, Streamable HTTP.
 
 - **Career-long pattern of ecosystem enhancement** that creates competitive advantages for employers:
   - **AppSec industry transformation (Comcast):** Drove vendors to implement reachability analysis—now the industry standard for security alert prioritization, benefiting tools across the ecosystem including my next employer, Contrast Security
@@ -23,9 +23,9 @@ In every role, I've driven—from product, engineering, and ecosystem perspectiv
 
 ### Developer Community Leadership & Technical Recognition
 
-- **Active technical contributor:** Recognized as one of the most responsive and respected contributors on Cloudflare's #durable-objects Discord channel, consistently providing technical guidance and helping community members solve complex implementation challenges
+- **Active Cloudflare community contributor:** Recognized as one of the most responsive and respected contributors on Cloudflare's #durable-objects Discord channel, consistently providing technical guidance and helping community members solve implementation challenges
 - **Platform advisory roles:** Former Azure Advisor for Cosmos DB query language design and Microsoft MVP for AI and Analytics—appointed based on technical expertise and demonstrated ability to bridge product development with developer community needs
-- **Thought leadership for developer audiences:** Consistent track record of presenting complex technical concepts in a manner that is both engaging and entertaining through conference talks, content creation, and social media engagement that drives developer adoption
+- **Thought leadership for developer audiences:** Consistent track record of presenting complex technical concepts in a manner that is both effective and entertaining through conference talks, content creation, and social media engagement that drives developer adoption
 
 ### Technical Leadership & Open Source Impact
 
@@ -52,7 +52,7 @@ In every role, I've driven—from product, engineering, and ecosystem perspectiv
 
 ---
 
-## Selective work history
+## Professional Experience
 
 ### Contrast Security (2021-2025) | **Transformation Architect**
 *Reporting to CTO • Product Council Member (1 of 6)*
