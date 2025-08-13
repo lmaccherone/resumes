@@ -12,7 +12,7 @@ My career has been dedicated to empowering developers and driving adoption of tr
 
 ### Cloudflare-Specific Contributions
 
-- **WebSocket transport SEP:** Authored a WebSocket transport SEP under consideration for the next MCP specification, with a Cloudflare-based reference implementation. This leverages Durable Objects' ability to maintain connections while hibernating, making WebSockets a much better fit for Cloudflare's architecture than the current MCP network transport, Streamable HTTP.
+- **WebSocket transport SEP:** Authored a WebSocket transport SEP under consideration for the next MCP specification, with a Cloudflare-based reference implementation. This leverages Durable Objects' ability to maintain connections while hibernating, which makes WebSockets a much better fit for Cloudflare's architecture than the current MCP network transport, Streamable HTTP.
 - **Durable Objects ecosystem contributions:** Developed two open-source projects specifically targeting the Durable Objects ecosystem, demonstrating deep expertise and commitment to Cloudflare's developer community.
 - **Active community engagement:** Recognized as a leading contributor on Cloudflare's #durable-objects Discord channel, consistently helping developers solve implementation challenges and providing guidance.
 
