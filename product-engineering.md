@@ -6,26 +6,26 @@ Larry@Maccherone.com | +1 919-671-0772 | LinkedIn.com/in/LarryMaccherone
 
 ## Executive Summary
 
-My career has been dedicated to empowering developers and driving adoption of transformative technologies, aligning perfectly with Cloudflare's mission to create a seamless and delightful developer experience. In every role, I've driven—from product, engineering, and ecosystem perspectives—the development of solutions that dramatically improve the performance of engineering work at scale. Combining deep hands-on technical leadership with market foresight, I’ve consistently driven adoption, influenced industry standards, and delivered lasting change.
+My career has been dedicated to empowering developers and driving adoption of transformative technologies, aligning perfectly with Cloudflare's mission to create a paradigm-shifting but delightful developer experience. In every role, I’ve led the creation of solutions—from product, engineering, and ecosystem perspectives—that significantly enhance the performance and scalability of engineering work. Combining deep hands-on technical leadership with market foresight, I’ve consistently driven adoption, influenced industry standards, and delivered lasting change.
 
 ## How I Can Help Cloudflare
 
 ### Cloudflare-Specific Contributions
 
-- **WebSocket transport SEP:** Authored a WebSocket transport SEP under consideration for the next MCP specification, with a Cloudflare-based reference implementation. This leverages Durable Objects' ability to maintain connections while hibernating, making WebSockets an ideal fit for Cloudflare's architecture.  
-- **Durable Objects ecosystem contributions:** Developed two open-source projects specifically targeting the Durable Objects ecosystem, demonstrating deep expertise and commitment to Cloudflare's developer community.  
+- **WebSocket transport SEP:** Authored a WebSocket transport SEP under consideration for the next MCP specification, with a Cloudflare-based reference implementation. This leverages Durable Objects' ability to maintain connections while hibernating, making WebSockets a much better fit for Cloudflare's architecture than the current MCP network transport, Streamable HTTP.
+- **Durable Objects ecosystem contributions:** Developed two open-source projects specifically targeting the Durable Objects ecosystem, demonstrating deep expertise and commitment to Cloudflare's developer community.
 - **Active community engagement:** Recognized as a leading contributor on Cloudflare's #durable-objects Discord channel, consistently helping developers solve implementation challenges and providing guidance.
 
 ### Industry Ecosystem Leadership & Standards Influence
 
-- **Shaping the ecosystem my employer inhabits:** Like the WebSocket for MCP proposal mentioned above, I have often shaped the ecosystem my employer inhabits to create more fertile ground in which to flourish and grow. Two more examples:  
-  - **AppSec transformation (Comcast):** Championed reachability analysis, now the industry standard for security alert prioritization, enabling tools across the ecosystem to better serve Comcast and subsequent employers.  
-  - **DevSecOps leadership:** Authored the original DevSecOps Manifesto and published a widely adopted "Transformation Blueprint," driving adoption at BMW, CVS, Comcast, and more, fostering a thriving and developer-centric security ecosystem.
+- **Cultivating the ecosystem my employer inhabits:** Like the WebSocket for MCP proposal mentioned above, I have often cultivated the ecosystem my employer inhabits to create a more fertile environment in which to flourish and grow. Two more examples:
+  - **AppSec transformation (Comcast):** Championed reachability analysis, now the industry standard for security alert prioritization, enabling tools across the ecosystem to better serve Comcast and my subsequent employer, Contrast.
+  - **DevSecOps leadership:** Authored the original DevSecOps Manifesto and created a widely adopted "Transformation Blueprint," driving adoption at BMW, CVS, Comcast, and more, fostering a thriving and developer-centric security ecosystem.
 
 ### Developer Community Leadership & Technical Recognition
 
-- **Cloudflare community contributor:** Recognized as a leading voice on Cloudflare's #durable-objects Discord channel, helping developers solve challenges and adopt Cloudflare technologies.  
-- **Advisory roles:** Served as Azure Advisor for Cosmos DB query language design and Microsoft MVP for AI and Analytics, bridging product management with developer needs.  
+- **Cloudflare community contributor:** Recognized as a leading voice on Cloudflare's #durable-objects Discord channel, helping developers solve challenges and adopt Cloudflare technologies, while providing actionable feedback to Cloudflare employees for documentation, bug fix, and product enhancements.
+- **Advisory roles:** Served as Azure Advisor for Cosmos DB query language design and Microsoft MVP for AI and Analytics, bridging product management with developer needs.
 - **Developer thought leadership:** Delivered engaging conference talks, created impactful content, and drove adoption through social media, consistently making complex technical concepts accessible.
 
 ### Technical Leadership & Open Source Impact
@@ -56,7 +56,7 @@ My career has been dedicated to empowering developers and driving adoption of tr
 - **Analytics platform evolution (Rally):**  
   - Transitioned from a field role to product ownership by developing analytics tooling that overcame platform limitations.  
   - Built a replacement analytics engine that evolved into the Insights product line, demonstrating hands-on technical leadership driving product strategy.  
-  - **Result:** Established a new product line that became a key differentiator for Rally while opening up the ability to provide analytics on top of competitive software project management tools like Jira, which is now the dominant underlying platform for Broadcom Insight revenue.
+  - **Result:** Established a new product line that became a key differentiator for Rally while opening up the ability to provide analytics on top of competitive software project management tools like Jira, which is now the dominant underlying platform for Broadcom Insights revenue.
 
 ---
 
@@ -85,11 +85,11 @@ My career has been dedicated to empowering developers and driving adoption of tr
 - **Distributed technical team leadership:** Guided engineering and security teams across multiple subsidiaries (Comcast, Sky, NBC Universal, DreamWorks, etc.).  
 - **Platform engineering pioneer:** Strategically transitioned to Distinguished Engineer role to establish enterprise-wide platform engineering capability.  
 
-### Rally Software (later CA, even later Broadcom) (2009-2014) | **Director of Insight (analytics) product line**
+### Rally Software (later CA, even later Broadcom) (2009-2014) | **Director of Insights (analytics) product line**
 - **Framework creation:** Created Software Development Performance Index (SDPI) and ODIM frameworks still widely used today.  
 - **Defined product roadmap:** Defined product roadmap for analytics capabilities that became the Rally Insights product line.  
 - **Moved the industry:** Published largest-ever study correlating dev practices with performance (The Impact of Lean and Agile Quantified). **Result:** Influenced industry practices and established Rally as a thought leader in Agile development.  
-- **Rapid advancement:** Advanced from field role to Product Owner within 6 months through self-developed analytics tooling and then to Product Line Director by leading the analytics team to become a stand-alone product line.
+- **Rapid advancement:** Advanced from field role to Product Owner within 6 months through self-developed analytics tooling and then to Product Line Director by leading the analytics team to become a stand-alone product line to serve Rally as well as Jira and other competitive platforms. **Result:** Gave Rally a new market opportunity to compensate for the fact that Jira beat Rally in the agile lifecycle management wars.
 
 ### Carnegie Mellon / CyLab (2001-2009) | **Founding Director**
 - **Research consortium leadership:** Founding Director of CyLab cybersecurity research consortium
