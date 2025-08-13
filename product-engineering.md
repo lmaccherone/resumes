@@ -5,9 +5,9 @@
 
 ## tl;dr
 
-In every role, I led--from a product, engineering, and ecosystem perspective--the development of products that improved the performance of engineering organizations.
+In every role, I led--from a product, engineering, and ecosystem perspective--the development of products that improved the performance of engineering organizations. I consistently combine hands-on technical leadership with product strategy, using data-driven approaches to drive adoption and measure impact at scale.
 
-## Narative for Cloudflare
+## Narrative for Cloudflare
 
 ### Improving the ecosystem for my employer
 
@@ -19,7 +19,7 @@ In every role, I led--from a product, engineering, and ecosystem perspective--th
 
 ### Community engagement
 
-- I believe that I have earned the respect of both Cloudflare and community participants on the #durable-objects Discord channel by being amoung the most responsive contributors.
+- I believe that I have earned the respect of both Cloudflare and community participants on the #durable-objects Discord channel by being among the most responsive contributors.
 - I'm a former Azure Advisor for helping design the query language for Cosmos DB and I am a former Microsoft MVP for AI and Analytics offerings, in recognition of my community outreach for Microsoft/Azure products.
 
 ### Engineering
@@ -34,6 +34,16 @@ In every role, I led--from a product, engineering, and ecosystem perspective--th
 - At Comcast, I directed my developer hires to build not just security-relevant CI plugins but also general purpose plugins to accelerate the adoption of DevOps. Our plugins accounted for 3 of the top 5 and 4 of the top 10 most used plugins for Comcast's CI/CD platforms.
 - Also at Comcast, I was the product owner for 4 internal applications that were eventually merged into the one platform named Security Central which replaced 7 other systems saving millions in licensing costs as well as engineering effort. Roughly 40 FTE engineers were dedicated to the 7 systems that Security Central replaced and I only had 10 FTE engineers.
 - I was hired at Rally into a field role, but within 6 months, I had personally developed analytics tooling to help our customers overcome limitations of the Rally analytics engine. From that success, I transitioned to a product owner role over the analytics team and I continued to develop my analytics platform to a replace the existing one. I was promoted to Director of the Insights product line and head of the Raleigh office. Today, I hear that Broadcom Insights brings in more revenue than the entire Rally organization did at its peak.
+
+---
+
+## Quantified Impact
+
+- **83% reduction** in production vulnerabilities at Comcast through Dev[Sec]Ops transformation
+- **3x faster** vulnerability remediation using runtime security tools
+- **10,000+ developers** impacted by platform engineering initiatives
+- **1M+ downloads/month** for open source projects used by major cloud providers
+- **40,000+ impressions** per thought leadership post, driving product strategy
 
 ---
 
