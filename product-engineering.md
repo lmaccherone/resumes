@@ -62,7 +62,7 @@ In every role, I've driven—from product, engineering, and ecosystem perspectiv
 
 ### Comcast (2016-2021) | **Executive Director → Distinguished Engineer**
 *Direct CISO hire • Enterprise-wide development organization transformation*
-- **Developer mindset and practices transformation:** Led DevSecOps transformation across 600 engineering teams and 10,000+ developers, via coaching approach to transformation in contrast to ineffective and confrontational policing approach
+- **Transform mindset and practices:** Led DevSecOps transformation across 600 engineering teams and 10,000+ developers, via coaching approach to transformation in contrast to ineffective and confrontational policing approach
 - **Developer-centric tooling transformation:** Swapped out entire suite of existing tools that catered to security experts and a policing approach with developer-friendly alternatives that empowered developers to own security outcomes
 - **Distributed technical team leadership:** Guided engineering and security teams across multiple subsidiaries (Comcast, Sky, NBC Universal, DreamWorks, etc.)
 - **Platform engineering pioneer:** Strategically transitioned to Distinguished Engineer role to establish enterprise-wide platform engineering capability
