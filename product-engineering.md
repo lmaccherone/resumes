@@ -27,11 +27,11 @@ In every role, I've driven—from product, engineering, and ecosystem perspectiv
 - **Platform advisory roles:** Former Azure Advisor for Cosmos DB query language design and Microsoft MVP for AI and Analytics—appointed based on technical expertise and demonstrated ability to bridge product development with developer community needs
 - **Thought leadership for developer audiences:** Consistent track record of presenting complex technical concepts in a manner that is both engaging and entertaining through conference talks, content creation, and social media engagement that drives developer adoption
 
-### Engineering
+### Technical Leadership & Open Source Impact
 
-- I am the primary author of over a dozen open source projects, one of which gets over 1 million downloads per month and is used by every major cloud vendor and cryptocurrency wallet/exchange. Two of these open-source projects are for Cloudflare Durable Objects.
-- I am the author of a competition-winning ML algorithm for temporal-hierarchical predictive modeling in use by BMW (BoMs that change over time), Broadcom (org-trees that change over time), Pendo (DOM hierarchies that change with user interaction), and others. This shows I have deep background that translates into understanding how AI works.
-- Everywhere I've worked, I have consistently driven product vision by personally coding innovative prototypes.
+- **Widely-adopted open source contributions:** Primary author of 12+ open source projects, including one with 1M+ monthly downloads used by every major cloud vendor and cryptocurrency platform. Two projects specifically target Cloudflare Durable Objects ecosystem, demonstrating deep Cloudflare expertise and commitment to Cloudflare's developer community.
+- **Advanced algorithmic innovation:** Developed competition-winning ML algorithm for temporal-hierarchical predictive modeling, deployed in production at BMW (dynamic BoMs), Broadcom (evolving org structures), and Pendo (DOM hierarchy interactions). This deep AI/ML foundation directly translates to understanding modern AI tooling architectures and developer needs.
+- **Prototype-driven product strategy:** Consistently lead product vision through hands-on technical prototyping—using code to explore possibilities, validate concepts, and demonstrate technical feasibility before committing engineering resources to full development.
 
 ### Product Leadership for Developer Platforms
 
@@ -45,39 +45,39 @@ In every role, I've driven—from product, engineering, and ecosystem perspectiv
 ## Quantified Impact
 
 - **83% reduction** in production vulnerabilities at Comcast through Dev[Sec]Ops transformation
-- **3x faster** vulnerability remediation using runtime security tools
-- **10,000+ developers** impacted by platform engineering initiatives
-- **1M+ downloads/month** for open source projects used by major cloud providers
-- **40,000+ impressions** per thought leadership post, driving product strategy
+- **3x faster** vulnerability remediation using runtime security tools at Contrast
+- **10,000+ developers** impacted by platform engineering initiatives at Comcast
+- **1M+ downloads/month** for open source projects I authored and in-use by all major cloud providers
+- **40,000+ impressions** per thought leadership post, both driving forward and--via pushback against those posts--steering product strategy
 
 ---
 
 ## Selective work history
 
-### Contrast Security (2021-2025)
-- Architect role reporting to CTO
-- Held one of six seats on product council
-- Drove product vision feedback through events, C-suite roundtables, and workshops
-- Created thought leadership content generating up to 40,000 impressions per post
-- Three-at-a-time mentees split roughly equally between product managers and engineering leaders over my tenure
+### Contrast Security (2021-2025) | **Transformation Architect**
+*Reporting to CTO • Product Council Member (1 of 6)*
+- **Drove forward and steered product strategy:** Facilitated practitioner workshops, hosted C-suite roundtables, and presented at industry events all of which served as both feedback mechanisms and opportunities to drive industry acceptance of our vision
+- **Created high-impact content:** (40K+ impressions per post) that both advanced and refined--through community feedback--go-to-market strategy
+- **Mentorship:** Maintained continuous mentorship of roughly 3 engineering and product leaders, developing next-generation
 
-### Comcast (2016-2021)
-- Hired into Executive Director role directly by CISO to drive Dev[Sec]Ops transformation across 600 teams and 10,000 engineers
-- Primary decision maker for tool evaluation across dozen+ vendors
-- Managed distributed teams across Comcast, Sky, NBC/Universal, DreamWorks, etc.
-- Hired and trained my own replacements and shifted to Distinguished Engineer role to establish platform engineering for entire enterprise
+### Comcast (2016-2021) | **Executive Director → Distinguished Engineer**
+*Direct CISO hire • Enterprise-wide development organization transformation*
+- **Developer mindset and practices transformation:** Led DevSecOps transformation across 600 engineering teams and 10,000+ developers, via coaching approach to transformation in contrast to ineffective and confrontational policing approach
+- **Developer-centric tooling transformation:** Swapped out entire suite of existing tools that catered to security experts and a policing approach with developer-friendly alternatives that empowered developers to own security outcomes
+- **Distributed technical team leadership:** Guided engineering and security teams across multiple subsidiaries (Comcast, Sky, NBC Universal, DreamWorks, etc.)
+- **Platform engineering pioneer:** Strategically transitioned to Distinguished Engineer role to establish enterprise-wide platform engineering capability
 
-### Rally Software (later CA, even later Broadcom) (2009-2014)
-- Director of Insight (analytics) product line
-- Created Software Development Performance Index (SDPI) and ODIM frameworks still widely used today
-- Managed product roadmap for analytics capabilities across engineering teams
-- Published largest-ever study correlating dev practices with performance (The Impact of Lean and Agile Quantified)
+### Rally Software (later CA, even later Broadcom) (2009-2014) | **Director of Insight (analytics) product line**
+- **Framework creation:** Created Software Development Performance Index (SDPI) and ODIM frameworks still widely used today
+- **Defined product roadmap:** Defined product roadmap for analytics capabilities across engineering teams
+- **Industry research:** Published largest-ever study correlating dev practices with performance (The Impact of Lean and Agile Quantified)
+- **Rapid advancement:** Advanced from field role to Product Owner within 6 months through self-developed analytics tooling and then to Product Line Director by leading the analytics team to become a stand-alone product line
 
-### Carnegie Mellon / CyLab (2001-2009)
-- Founding Director of CyLab cybersecurity research consortium
-- Co-led DHS Build-Security-In initiative (became industry-standard BSIMM)
-- Principal Investigator for NSA Code Assessment Methodology Project that wrote the book on how the government evaluates security tools
-- Published peer-reviewed research on quantitative software engineering measurement
+### Carnegie Mellon / CyLab (2001-2009) | **Founding Director**
+- **Research consortium leadership:** Founding Director of CyLab cybersecurity research consortium
+- **Federal initiative leadership:** Co-led DHS Build-Security-In initiative (became industry-standard BSIMM)
+- **Research team leadership:** Principal Investigator for NSA Code Assessment Methodology Project that wrote the book on how the government evaluates security tools
+- **Published:** Peer-reviewed research on quantitative software engineering measurement
 
 ---
 
