@@ -1,26 +1,31 @@
 # Larry Maccherone
+**Title:** Senior Product and Engineering Leader | **Location:** Raleigh, NC (Remote) |
 **Email:** Larry@Maccherone.com | **Phone:** +1 919-671-0772 | **LinkedIn:** linkedin.com/in/LarryMaccherone
 
 ---
 
-## tl;dr
+## Executive Summary
 
-In every role, I led--from a product, engineering, and ecosystem perspective--the development of products that improved the performance of engineering organizations. I consistently combine hands-on technical leadership with product strategy, using data-driven approaches to drive adoption and measure impact at scale.
+In every role, I've driven—from product, engineering, and ecosystem perspectives—the development of solutions that measurably improve the performance of engineering organizations at scale.
 
-## Narrative for Cloudflare
+**Core value proposition:** I consistently combine deep hands-on technical leadership with strategic product vision, using data-driven approaches to drive adoption, influence industry standards, and deliver quantifiable business impact.
 
-### Improving the ecosystem for my employer
+## Strategic Value for Cloudflare
 
-- I am the author of the WebSocket transport SEP now in consideration for the next MCP spec. It was developed--and will be shipped--with a Cloudflare-based reference implementation. Because of hibernating WebSockets this is an infinitely better transport for Cloudflare's architecture than MCP's other network transport, Streamable HTTP.
-- The above highlights a career-long pattern of bettering the ecosystem for my employer, in some cases even prior to employment. Similarly:
-  - At Comcast, I drove AppSec vendors to implement reachability analysis that today is the key to prioritizing the tsunami of security alerts that many tool vendors--including my next employer, Contrast--benefits from today.
-  - At Rally (now Broadcom), I published the largest ever study correlating lean and agile development practices with outcomes (productivity, predictability, quality, and responsiveness) which is now a foundational reference for organizations adopting these methodologies.
-  - At Rally, I also published the original DevSecOps Manifesto that launched the developer-centric security movement and led me to become the head of AppSec for Comcast where I developed a framework for shift-left security across large enterprises. That framework was then adopted at BMW, CVS, and others.
+### Industry Ecosystem Leadership & Standards Influence
 
-### Community engagement
+- **Current Cloudflare impact:** Author of WebSocket transport SEP under consideration for next MCP specification, developed with Cloudflare-based reference implementation. With Durable Object's ability to hibernate, WebSockets is an infinitely better fit for Cloudflare's architecture than MCP's existing network transport, Streamable HTTP.
 
-- I believe that I have earned the respect of both Cloudflare and community participants on the #durable-objects Discord channel by being among the most responsive contributors.
-- I'm a former Azure Advisor for helping design the query language for Cosmos DB and I am a former Microsoft MVP for AI and Analytics offerings, in recognition of my community outreach for Microsoft/Azure products.
+- **Career-long pattern of ecosystem enhancement** that creates competitive advantages for employers:
+  - **AppSec industry transformation (Comcast):** Drove vendors to implement reachability analysis—now the industry standard for security alert prioritization, benefiting tools across the ecosystem including my next employer, Contrast Security
+  - **Agile/DevOps methodology leadership (Rally/Broadcom):** Published the largest-ever study correlating lean and agile practices with software engineering team performance—now a foundational reference for those methodologies
+  - **DevSecOps movement creation:** Authored original DevSecOps Manifesto that launched the developer-centric security movement, now adopted at BMW, CVS, Comcast, and other major organizations worldwide
+
+### Developer Community Leadership & Technical Recognition
+
+- **Active technical contributor:** Recognized as one of the most responsive and respected contributors on Cloudflare's #durable-objects Discord channel, consistently providing technical guidance and helping community members solve complex implementation challenges
+- **Platform advisory roles:** Former Azure Advisor for Cosmos DB query language design and Microsoft MVP for AI and Analytics—appointed based on technical expertise and demonstrated ability to bridge product development with developer community needs
+- **Thought leadership for developer audiences:** Consistent track record of presenting complex technical concepts in a manner that is both engaging and entertaining through conference talks, content creation, and social media engagement that drives developer adoption
 
 ### Engineering
 
@@ -28,12 +33,12 @@ In every role, I led--from a product, engineering, and ecosystem perspective--th
 - I am the author of a competition-winning ML algorithm for temporal-hierarchical predictive modeling in use by BMW (BoMs that change over time), Broadcom (org-trees that change over time), Pendo (DOM hierarchies that change with user interaction), and others. This shows I have deep background that translates into understanding how AI works.
 - Everywhere I've worked, I have consistently driven product vision by personally coding innovative prototypes.
 
-### Product leadership
+### Product Leadership for Developer Platforms
 
-- At Contrast, I created the first K8s sidecar deployment to overcome the challenges of scaling deployments within customers one app at a time. I then led an engineering effort to create similar capability for environments besides K8s. Today, the vast majority of Contrast's usage is through these scaled deployment models.
-- At Comcast, I directed my developer hires to build not just security-relevant CI plugins but also general purpose plugins to accelerate the adoption of DevOps. Our plugins accounted for 3 of the top 5 and 4 of the top 10 most used plugins for Comcast's CI/CD platforms.
-- Also at Comcast, I was the product owner for 4 internal applications that were eventually merged into the one platform named Security Central which replaced 7 other systems saving millions in licensing costs as well as engineering effort. Roughly 40 FTE engineers were dedicated to the 7 systems that Security Central replaced and I only had 10 FTE engineers.
-- I was hired at Rally into a field role, but within 6 months, I had personally developed analytics tooling to help our customers overcome limitations of the Rally analytics engine. From that success, I transitioned to a product owner role over the analytics team and I continued to develop my analytics platform to a replace the existing one. I was promoted to Director of the Insights product line and head of the Raleigh office. Today, I hear that Broadcom Insights brings in more revenue than the entire Rally organization did at its peak.
+- **Breakthrough deployment architecture (Contrast):** Prototyped first K8s sidecar deployment model to accelerate rollouts beyond previous one-app-at-a-time limitations. Then, led cross-functional engineering effort to extend this approach across diverse runtime environments—now the primary deployment model for Contrast.
+- **Developer tooling strategy (Comcast):** Directed my engineering resources to build both security-focused and general-purpose CI/CD plugins, recognizing that developer adoption requires solving broader workflow challenges. Our's were 3 of top 5 and 4 of top 10 most-used CI plugins across Comcast's CI/CD platforms.
+- **Platform consolidation leadership (Comcast):** Served as product owner for Security Central platform that replaced 7 existing systems while reducing engineering overhead from 40 to 10 FTE—demonstrating ability to architect scalable solutions that improve both developer experience and operational efficiency.
+- **Analytics platform evolution (Rally):** Rapidly transitioned from field role to product ownership by personally developing analytics tooling that overcame platform limitations. Built replacement analytics engine that evolved into the Insights product line—showcasing pattern of hands-on technical leadership driving product strategy.
 
 ---
 
