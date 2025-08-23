@@ -13,14 +13,14 @@ Repeat 0→1 builder and category creator across Engineering, ML/Data Science, A
 ### 0→1 Execution Highlights
 
 - **Find and frame:** Leverage investor/founder/advisor insight (and my own) to spot opportunities and probe for a product‑category wave.
-- **MVP fast:** Build rapid MVPs to locate the max overlap of desirability and feasibility.
+- **MVP fast:** Build rapid MVPs to locate the max intersection of desirability and feasibility.
 - **Validate with partners:** Recruit 2–3 design partners; validate demand via A/B tests and lightweight experiments.
 - **Execute and focus:** Ship product + quickstarts + self‑serve; cut low‑impact work and double down on what moves the needle.
 
 ### C-suite Roundtables and Deal Acceleration
 
 - **Hosted 12+ per year** executive roundtables, breakfasts, and dinners to steer thinking and harvest market insight.
-- **Devil’s‑advocate plant** to surface objections and drive alignment with our strategy.
+- **Utilized devil’s‑advocate plant** to surface objections and drive alignment with our strategy.
 - **Outcomes:** One event yielded **5 POC commitments in a week**; at Contrast, **60%+ of POCs** originated from these events (continued post‑employment on contract).
 
 ### Standards & Specs Leadership
@@ -39,7 +39,7 @@ Repeat 0→1 builder and category creator across Engineering, ML/Data Science, A
 - **Stateful edge/serverless OSS:** Built two open-source projects targeting stateful edge/serverless runtimes, demonstrating practical expertise with modern distributed application patterns.
 - **Algorithmic innovation:** Designed a competition-winning ML algorithm for temporal-hierarchical predictive modeling, in use at BMW, Broadcom, and Pendo.
 
-### Relevant Professional Accomplishments
+### Relevant Professional Results
 
 - **Breakthrough deployment architecture (Contrast):**
   - Prototyped the first Kubernetes sidecar deployment to accelerate rollouts beyond one‑app‑at‑a‑time limitations.
