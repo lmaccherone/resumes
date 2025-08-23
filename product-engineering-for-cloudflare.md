@@ -83,7 +83,7 @@ My career has been dedicated to empowering developers and driving adoption of tr
 - **Transform mindset and practices:** Led DevSecOps transformation across 600 engineering teams and 10,000+ developers, via coaching and toolsmithing approach to transformation in contrast to ineffective and confrontational gatekeeping approach. **Result:** Reduced dependency on siloed security experts, enabling faster and more secure product development.  
 - **Toolsmithing to empower developers via self-service:** Swapped out entire suite of existing tools that catered to silo'd security expert usage with self-service developer-friendly alternatives that empowered product teams to own the security of their products.  
 - **Distributed technical team leadership:** Guided engineering and security teams across multiple subsidiaries (Comcast, Sky, NBC Universal, DreamWorks, etc.).  
-- **Platform engineering pioneer:** Strategically transitioned to Distinguished Engineer role to establish enterprise-wide platform engineering capability.  
+- **Platform engineering pioneer:** Strategically transitioned to Distinguished Engineer role to establish enterprise-wide platform engineering capability.
 
 ### Rally Software (later CA, even later Broadcom) (2009-2014) | **Director of Insights (analytics) product line**
 - **Framework creation:** Created Software Development Performance Index (SDPI) and ODIM frameworks still widely used today.  
