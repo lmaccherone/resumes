@@ -93,7 +93,7 @@ Repeat 0→1 builder and category creator across Engineering, ML/Data Science, A
 ### Rally Software (later CA, even later Broadcom) (2009-2014) | **Director of Insights (analytics) product line**
 - **Framework creation:** Created Software Development Performance Index (SDPI) and ODIM frameworks still widely used today.  
 - **Defined product roadmap:** Defined product roadmap for analytics capabilities that became the Rally Insights product line.  
-- **Moved the industry:** Published largest-ever study correlating dev practices with performance (The Impact of Lean and Agile Quantified). **Result:** Influenced industry practices and established Rally as a thought leader in Agile development.  
+- **Moved the industry:** Published largest-ever study correlating dev practices with performance (The Impact of Lean and Agile Quantified). **Result:** Influenced industry practices and established Rally as a thought leader in Agile metrics.  
 - **Rapid advancement:** Advanced from field role to Product Owner within 6 months through self-developed analytics tooling and then to Product Line Director by leading the analytics team to become a stand-alone product line to serve Rally as well as Jira and other competitive platforms. **Result:** Gave Rally a new market opportunity to compensate for the fact that Jira beat Rally in the agile lifecycle management wars.
 
 ### Carnegie Mellon / CyLab (2001-2009) | **Founding Director**
