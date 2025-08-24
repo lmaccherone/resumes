@@ -19,9 +19,10 @@ Repeat 0→1 builder and category creator across Engineering, ML/Data Science, A
 
 ### C-suite Roundtables and Deal Acceleration
 
-- **Hosted 12+ per year** executive roundtables, breakfasts, and dinners to steer thinking and harvest market insight.
+- **Hosted 12+ per year** executive roundtables, breakfasts, and dinners to steer thinking and harvest practitioner pain points and insights.
 - **Utilized devil’s‑advocate plant** to surface objections and drive alignment with our strategy.
-- **Outcomes:** One event yielded **5 POC commitments in a week**; at Contrast, **60%+ of POCs** originated from these events (continued post‑employment on contract).
+- **Outcomes:** One event yielded **5 POC commitments in a week**;
+- **60%+ of POCs** at Contrast originated from these events (continued post‑employment on contract).
 
 ### Standards & Specs Leadership
 
@@ -29,9 +30,9 @@ Repeat 0→1 builder and category creator across Engineering, ML/Data Science, A
 
 ### Developer Adoption & Community Growth
 
-- **Developer thought leadership:** Delivered 30+ talks/workshops/webinars; produced content that turned complex topics into actionable guidance.
+- **Developer thought leadership:** Delivered 30+ talks/workshops/webinars per year; produced content that turned complex topics into actionable guidance.
 - **Active community engagement:** Supported developer communities (Discord/forums), unblocking implementations and driving docs/bugfix/product improvements.
-- **DevSecOps leadership:** Authored the original DevSecOps Manifesto and a widely adopted Transformation Blueprint (adopted by BMW, CVS, Comcast, others).
+- **DevSecOps leadership:** Authored the original Dev[Sec]Ops Manifesto and a widely adopted Transformation Blueprint (adopted by BMW, CVS, Comcast, others).
 
 ### Hands-on Engineering & OSS Impact
 
@@ -44,15 +45,16 @@ Repeat 0→1 builder and category creator across Engineering, ML/Data Science, A
 - **Breakthrough deployment architecture (Contrast):**
   - Prototyped the first Kubernetes sidecar deployment to accelerate rollouts beyond one‑app‑at‑a‑time limitations.
   - Led a cross‑functional engineering effort to implement the best at‑scale deployment approach for popular runtime environments.
-  - **Result:** Almost all Contrast deployments now use this architecture, significantly improving deployment speed and scalability.  
+  - **Result:** Almost all Contrast usage is via these at-scale deployment approaches, significantly improving deployment speed and scalability.
 
 - **DevOps before DevSecOps (Comcast):**  
   - Directed engineering resources to build both security-focused and general-purpose CI/CD plugins.  
-  - Achieved 3 of the top 5 and 4 of the top 10 most-used CI plugins across Comcast's CI/CD platforms.  
+  - Achieved 3 of the top 5 and 4 of the top 10 most-used CI plugins across Comcast's CI/CD platforms.
+  - Pioneered coaching over auditing approach which fundamentally changed the relationship between security and development teams.
   - **Result:** Flipped perception of Comcast security from a gatekeeper to an enabler of faster value delivery.  
 
 - **Enticing by delighting (Comcast):**  
-  - Served as product owner for the Security Central platform, gradually winning internal competition against 7 other systems by delivering a delightful user experience that accelerated usage.  
+  - Served as product owner for the Security Central platform, gradually winning internal competition against 7 other systems by delivering a delightful user experience that accelerated usage.
   - Reduced engineering overhead from 40 to 10 FTE by consolidating and streamlining security tooling.  
   - **Result:** Gave executives, developer leaders, and practitioners one place to go for all security-related needs, while reducing costs and enticing exploratory adoption.
 
@@ -66,15 +68,14 @@ Repeat 0→1 builder and category creator across Engineering, ML/Data Science, A
 ## Quantified Impact
 
 - **83% reduction** in production vulnerabilities at Comcast through Dev[Sec]Ops transformation
-- **3x faster** vulnerability remediation using runtime security tools at Contrast
 - **10,000+ developers** impacted by platform engineering initiatives at Comcast
 - **1M+ downloads/month** for open source projects I authored and in use by all major cloud providers
 - **40,000+ impressions** per thought leadership post, both driving forward and—via pushback against those posts—steering product strategy
-- **30+** industry presentations, panels, and webinars at conferences including RSA, Black Hat, BSides, and AWS re:Inforce
+- **30+ per year** industry presentations, panels, and webinars at conferences including RSA, Black Hat, BSides, and AWS re:Inforce
 
 ---
 
-## Relevant Professional History
+## Professional History
 
 ### Contrast Security (2021-2025) | **Transformation Architect**
 *Reporting to CTO • Product Council Member (1 of 6)*
